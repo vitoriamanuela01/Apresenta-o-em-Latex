@@ -1,0 +1,101 @@
+\documentclass{beamer}
+
+\usetheme{Madrid}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[brazil]{babel}
+
+\begin{document}
+
+\begin{frame}{Sobre Mim}
+    \begin{itemize}
+        \item Olá, sou Vitória Manuela e tenho 21 anos;
+        \item Técnica em Análise e Desenvolvimento de Sistemas;
+        \item Técnica em Administração; 
+        \item Falo um pouco espanhol - PGM;
+        \item Graduanda em Engenharia de Controle e Automação. 
+        \item Hobbies: Sempre busco atividades que goste ou me movimente como, passar tempo com a família, ciclismo e vôlei de praia.
+    \end{itemize}
+    \textbf{Objetivos e Sonhos:}
+    \begin{itemize}
+        \item Viagens culturais e culinárias;
+        \item Viagens acadêmicas;
+        \item Ser uma ótima profissional na minha área;
+        \item Fazer Pós-Graduação ou Mestrado;
+        \item Aprender vários idiomas;
+        \item Ser exemplo profissional no meu setor e para minha família;
+        \item Sempre estar aprendendo algo novo, seja por curiosidade ou para agregar na carreira profissional.
+        
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Experiências Acadêmicas e Profissionais}
+    \begin{itemize}
+        \item \textbf{Curso de Automação Predial} - Empresa Softex (2018)
+        \item \textbf{Inovation Camp} - Empresa Avanade (2019)
+        \item \textbf{Líder da Mecânica} - Equipe LEGO BUS - Porto Digital (2020)
+        \item \textbf{Integrante da Eletrônica/Programação} - Projeto Carranca (2022)
+        \item \textbf{Jovem Aprendiz Adm.} - Compesa (2021)
+        \item \textbf{Estagiária de Engenharia} - Engeman (2022)
+        \item \textbf{Estagiária da ARI} - UPE - POLI (2024)
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Motivações e Interesses para a ARI/POLI}
+    \begin{figure}[h]
+    \centering
+    \includegraphics[width=0.3\textwidth]{ari.jpg}
+    \label{fig:example_image}
+\end{figure}
+    Minha maior motivação e interesse em contribuir com a Assessoria de Relações Internacionais é a combinação entre fatores pessoais, acadêmicos e profissionais que me inspiram a acreditar na importância da troca de conhecimento e da diversidade cultural. 
+    Quero usar essa oportunidade para facilitar e melhorar a experiência de outros envolvidos em programas de intercâmbio e colaborações internacionais, além de aprender mais sobre como funciona para também aplicar na minha vida. 
+    Acredito que ajudar a Assessoria de Relações Internacionais é ajudar a criar oportunidades educacionais que quebram fronteiras, e isso me parece incrivelmente valioso.
+\end{frame}
+
+\begin{frame}{Projeto Paroleco}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.2\textwidth]{paroleco.png}
+    \label{fig:example_image}
+\end{figure}
+    Acredito que a forma mais direta para contribuir para esse projeto incrível é sendo uma voluntária. Como tenho conhecimento do idioma espanhol, acredito que seria muito bom tanto para a pessoa que está aprendendo, quanto para mim, pois vou ter a necessidade de buscar mais informações e sempre estar melhorando para poder passar qualidade nas informações e na maneira correta de falar e pronunciar.
+    Ou seja, benefícios em dobro, além de aumentar a visibilidade do projeto graças à qualidade de seus instrutores/voluntários.
+\end{frame}
+
+\begin{frame}{Projeto ProgramaAuto}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.3\textwidth]{programauto.png}
+    \label{fig:example_image}
+\end{figure}
+
+    Acredito que os benefícios vão além de aprender uma nova linguagem de programação. A linguagem C, que é apresentada durante as aulas desse projeto, é para mim a base necessária para aprender qualquer outra e por isso é considerada a linguagem mãe. 
+    Programar em C requer uma abordagem estruturada e lógica para a resolução de problemas, o que ajuda a desenvolver habilidades de pensamento crítico e algorítmico. 
+    Além disso, auxilia no desenvolvimento para os desafios do mercado de trabalho, preparando-o para lidar com novos desafios e imprevistos.
+\end{frame}
+
+\begin{frame}{Site da ARI/POLI - Sugestões}
+    \begin{itemize}
+        \item A header do site está muito cheia de informações, o que pode causar uma carga visual ao usuário. Acredito que dá para organizar melhor e mais padronizado para o perfil educacional, usando a logo da ARI como a principal e mantendo as outras no rodapé/footer do site ou distribuindo de forma menos exagerada.
+         \includegraphics[width=0.1\textwidth]{header.png}
+
+        \item Na minha visão, esse setor está um pouco desorganizado. Podemos organizar por categorias como notícias, eventos, seleções e deixar as coisas mais importantes, como informações sobre a ARI, seu papel e os serviços mais visíveis.
+    
+        \centering
+        \includegraphics[width=0.1\textwidth]{main.png}
+
+        \item O footer está um pouco simples. Especificar melhor e colocar uma seção só para os tipos de contatos, para cada departamento ou necessidade, seria interessante e deixaria o site mais amplo.
+        \includegraphics[width=0.1\textwidth]{footer.png}
+
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Manual Administrativo}
+    Depois de ler o Manual Administrativo da ARI percebi que era disso que algumas empresas em que trabalhei precisavam. Além da comunicação, a organização de documentos, a inspeção de rotina dos funcionários e a análise de desenvolvimento das atividades são essenciais para que tudo funcione tranquilamente entre as demandas e as atividades pré-estabelecidas.
+    Muitas vezes existia falta de comunicação nos meus antigos setores, nem havia uma reunião semanal, logo, minhas conclusão é que o manual está adequado e sem necessidades de alteração.
+    
+    \centering
+    \textbf{OBRIGADA!}
+\end{frame}
+
+\end{document}
